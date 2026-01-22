@@ -57,7 +57,7 @@ CV-PROJECT/
 │
 ├── index.html
 ├── style.css
-└── images/   (if used)
+└── images/   
 ```
 
 ---
