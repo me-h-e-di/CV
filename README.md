@@ -83,8 +83,8 @@ By completing this project, I learned:
 
 ## **Author Information**
 
-**Name:** Md. Mehedi Hasan
-**University:** Premier University,Chittagong
+**Name:** Md. Mehedi Hasan <br>
+**University:** Premier University, Chittagong <br>
 **Project Type:** Academic Web Development Project
 
 ---
