@@ -1,90 +1,95 @@
-CV Project Report
-Project Title
+# **CV Project Report**
 
-Curriculum Vitae (CV) Website Using HTML & CSS
+---
 
-Project Type
+## **Project Title**
 
-Academic / Web Development Project
+**Curriculum Vitae (CV) Website Using HTML & CSS**
 
-Description
+---
 
-This project is a static Curriculum Vitae (CV) website developed using HTML and CSS.
-The goal of this project is to demonstrate a clear understanding of basic web technologies and how they can be used to present personal and professional information in a structured, accessible, and visually clean format.
+## **Project Description**
 
-The website represents a digital version of a traditional CV, converted into a web-based format.
+This project is a **static Curriculum Vitae (CV) website** developed using **HTML5 and CSS3**.
+The purpose of this project is to present personal, academic, and skill-based information in a structured and professional web format.
+It converts a traditional paper-based CV into a simple, accessible digital version.
 
-Live Preview:
-https://mehedi-x.github.io/CV-PROJECT/
+🔗 **Live Project Link:**
+[https://mehedi-x.github.io/CV-PROJECT/](https://mehedi-x.github.io/CV-PROJECT/)
 
-Objectives
+---
 
-To understand the structure of an HTML document
+## **Objectives of the Project**
 
-To apply CSS for layout, styling, and readability
+* To understand the basic structure of an HTML document
+* To apply CSS for styling and layout
+* To design a clean and readable CV webpage
+* To gain experience in hosting a project using GitHub Pages
 
-To create a professional CV using only frontend technologies
+---
 
-To learn basic project organization and GitHub deployment
+## **Technologies Used**
 
-Technologies Used
+* **HTML5** – Used for creating the structure and content of the CV
+* **CSS3** – Used for styling, layout, and visual presentation
+* **GitHub Pages** – Used for deploying the static website
 
-HTML5 – For structure and content
+> This project intentionally avoids JavaScript and backend technologies
+> to focus on core frontend fundamentals.
 
-CSS3 – For layout and styling
+---
 
-GitHub Pages – For deployment
+## **Features of the CV Website**
 
-No JavaScript, backend, or frameworks are used.
-This is intentional and aligned with basic web development learning objectives.
+* Personal information section
+* Educational background
+* Skills and interests
+* Projects / experience details
+* Contact information
+* Simple and user-friendly design
 
-Features
+---
 
-Personal information section
+## **Project Folder Structure**
 
-Education details
-
-Skills and interests
-
-Project/experience section
-
-Contact information
-
-Responsive and clean layout
-
-Project Structure
+```
 CV-PROJECT/
 │
 ├── index.html
 ├── style.css
-└── assets/ (images if any)
+└── images/   (if used)
+```
 
-How to Run the Project
+---
 
-Download or clone the repository
+## **How to Run the Project**
 
-Open index.html in any modern web browser
+1. Download or clone the repository
+2. Open the `index.html` file in any web browser
+3. No installation or configuration is required
 
-No additional setup is required
+---
 
-Learning Outcome
+## **Learning Outcomes**
 
-Through this project, I gained practical experience in:
+By completing this project, I learned:
 
-Writing semantic HTML
+* How to write semantic HTML
+* How to style web pages using CSS
+* How to organize a small web project
+* How to deploy a static website using GitHub Pages
 
-Using CSS for styling and layout
+---
 
-Converting a traditional CV into a web format
+## **Author Information**
 
-Hosting a static website using GitHub Pages
+**Name:** Md. Mehedi Hasan
+**University:** Premier University,Chittagong
+**Project Type:** Academic Web Development Project
 
-Author
+---
 
-Md. Mehedi Hasan
-Department: (Add your department if required)
-University: Premier University Chittagong
+## **Declaration**
 
-Declaration
+I hereby declare that this project is my original work and has been created solely for educational purposes.
 
-This project is created for educational purposes only and represents my own work.
